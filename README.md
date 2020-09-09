@@ -1,7 +1,7 @@
 # Hello World 👋
-19 year old cs major 💻 😊<br>I like to code and make <a href="https://www.etsy.com/shop/ceraprints?section_id=30167282">stickers</a>!<br><br>
+<center> 19 year old cs major 💻 😊<br>I like to code and make <a href="https://www.etsy.com/shop/ceraprints?section_id=30167282">stickers</a>!<br><br>
  👩🏻‍💻   [Portfolio](https://cerasamson.github.io/) <br>
- 📫   [LinkedIn](https://www.linkedin.com/in/cerasamson/) <br>
+ 📫   [LinkedIn](https://www.linkedin.com/in/cerasamson/) <br> </center>
 
 <!--
 **cerasamson/cerasamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
