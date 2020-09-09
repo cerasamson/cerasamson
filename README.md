@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# Hi, I'm Cera 👋
+19 / las vegas
+ 👩🏻‍💻 https://cerasamson.github.io/
+ 📫 https://www.linkedin.com/in/cerasamson/
 <!--
 **cerasamson/cerasamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
