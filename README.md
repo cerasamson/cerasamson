@@ -1,5 +1,5 @@
 # Hi, I'm Cera 👋
-19 / las vegas <br>
+19 year old cs major <br>
  👩🏻‍💻 https://cerasamson.github.io/ <br>
  📫  https://www.linkedin.com/in/cerasamson/ <br>
 <!--
