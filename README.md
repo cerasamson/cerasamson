@@ -1,6 +1,6 @@
 # Hi, I'm Cera 👋
-19 year old cs major! <br>
- 👩🏻‍💻 https://cerasamson.github.io/ <br>
+19 year old cs major! <br> <br>
+ 👩🏻‍💻 https://cerasamson.github.io/ <br> <br>
  📫  https://www.linkedin.com/in/cerasamson/ <br>
 <!--
 **cerasamson/cerasamson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
