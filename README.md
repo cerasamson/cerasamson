@@ -1,4 +1,4 @@
-# Hello World, I'm Cera 👋
+# Hello World 👋
 19 year old cs major 💻 😊<br>I like to code and make <a href="https://www.etsy.com/shop/ceraprints?section_id=30167282">stickers</a>!<br><br>
  👩🏻‍💻   [Portfolio](https://cerasamson.github.io/) <br> <br>
  📫   [LinkedIn](https://www.linkedin.com/in/cerasamson/) <br>
