@@ -1,5 +1,5 @@
 # Hi, I'm Cera 👋
-19 year old cs major 💻 <br>I like to code and make <a href="https://www.etsy.com/shop/ceraprints?section_id=30167282">stickers</a>!<br><br>
+19 year old cs major 💻 😊<br>I like to code and make <a href="https://www.etsy.com/shop/ceraprints?section_id=30167282">stickers</a>!<br><br>
  👩🏻‍💻   [my portfolio](https://cerasamson.github.io/) <br> <br>
  📫   [linkedin](https://www.linkedin.com/in/cerasamson/) <br>
 
