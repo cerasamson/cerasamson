@@ -1,5 +1,4 @@
-# Hello World 👋 <br>
-I'm Cera, a 19 year old computer science student 👩🏻‍💻  <br>
+# Hello 👋 <br>
 I like to code (mainly in C++) and design <a href="https://www.etsy.com/shop/ceraprints?">stickers</a>!<br><br>
  🌸[ Portfolio](https://cerasamson.github.io/) <br>
  📫   [ LinkedIn](https://www.linkedin.com/in/cerasamson/) <br>
