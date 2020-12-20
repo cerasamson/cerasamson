@@ -1,5 +1,5 @@
 # Hello 👋 <br>
-I like to code (mainly in C++) and design <a href="https://www.etsy.com/shop/ceraprints?">stickers</a>!<br><br>
+I like to code and design <a href="https://www.etsy.com/shop/ceraprints?">stickers</a>!<br><br>
  🌸[ Portfolio](https://cerasamson.github.io/) <br>
  📫   [ LinkedIn](https://www.linkedin.com/in/cerasamson/) <br>
 <!--
